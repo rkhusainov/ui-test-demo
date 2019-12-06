@@ -2,4 +2,6 @@
     <string name="app_name">Ui tests demo</string>
     <string name="say_hello">Say hello</string>
     <string name="hello_world">Hello world!</string>
+    <string name="push_for_see">нажмите чтобы увидеть</string>
+    <string name="_0">0</string>
 </resources>

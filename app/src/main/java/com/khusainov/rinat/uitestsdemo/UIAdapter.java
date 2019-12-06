@@ -38,7 +38,7 @@ class UIAdapter extends RecyclerView.Adapter<UIAdapter.UIHolder> {
         }
 
         void bind(int position) {
-            mTextView.setText(position);
+            mTextView.setText(String.valueOf(position));
         }
     }
 }

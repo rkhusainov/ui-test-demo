@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        initRecycler();
         mTextView = findViewById(R.id.tv_text);
         mButton = findViewById(R.id.button);
 
